@@ -1,25 +1,14 @@
-# Umer Ghafoor
+### Hi there 👋, Umer Ghafoor
+#### Passionate Developer and Robotic Engineer
+![Passionate Robotic Engineer and Programmer]()
 
-## About Me
+Hello! I'm Umer Ghafoor, a passionate programmer with a keen interest in building desktop and Android applications. I also have a strong inclination toward programming electronics. I specialize in C++, Dart, Python, Julia, HTML, and CSS.
 
-Hello! I'm Umer Ghafoor, a passionate programmer with a keen interest in building desktop and Android applications. I also have a strong inclination towards programming electronics. I specialize in C++, Dart, Python, Julia, HTML, and CSS. Though I haven't been programming for a long time, I have been actively involved in programming for the past year, constantly learning and improving my skills.
+Skills: C++/Dart/Python/ulia/HTML/CSS
 
-## Projects
+- 🔭 I’m currently working on Agriculture Robot 
+- 🌱 I’m currently learning Flutter 
 
-- **Open Inventory**
-  - Open Inventory is an inventory management system that I built. It allows businesses to efficiently manage their inventory, track stock levels, and generate reports.
-  
-- **Document Scanner**
-  - I developed a document scanner application that enables users to scan and digitize documents using webCam.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umerghafoor)](https://github.com/anuraghazra/github-readme-stats)
 
-## Current Projects
-
-I am currently working on personal projects to further enhance my programming skills and explore new technologies. Stay tuned for updates on my latest endeavors!
-
-## Get in Touch
-
-I'm always open to collaboration and sharing knowledge with fellow developers. Feel free to reach out to me via the following channels:
-
-- GitHub: [github.com/umerghafoor](https://github.com/umerghafoor)
-- Email: [umerghaforr@gmail.com](mailto:umerghaforr@gmail.com)
-- LinkedIn: [linkedin.com/in/umerghafoor](https://www.linkedin.com/in/umerghafoor)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/umerghafoor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/umerghafoor/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/Mumerghafoor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](umerghafoor.com)  
