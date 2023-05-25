@@ -1,6 +1,6 @@
 ### Hi there 👋, Umer Ghafoor
 #### Passionate Developer and Robotic Engineer
-![Passionate Robotic Engineer and Programmer]()
+![Passionate Robotic Engineer and Programmer](1080x360.jpg)
 
 Hello! I'm Umer Ghafoor, a passionate programmer with a keen interest in building desktop and Android applications. I also have a strong inclination toward programming electronics. I specialize in C++, Dart, Python, Julia, HTML, and CSS.
 
