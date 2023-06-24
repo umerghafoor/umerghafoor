@@ -9,7 +9,7 @@ Hello! I'm Umer Ghafoor, a passionate programmer with a keen interest in buildin
 
 - 👯 I’m looking to collaborate on **InventorSystem**
 
-- 🔭 I’m currently working on **Agriculture Robot**
+- 🔭 I’m currently working on **Robot & task manager app**
 
 - 👨‍💻 All of my projects are available at [https://github.com/umerghafoor](https://github.com/umerghafoor)
 
