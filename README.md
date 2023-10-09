@@ -4,8 +4,7 @@
 
 ![stats_banner](cover.jpg)
 Asslam-o-Alaikum! I'm Umer Ghafoor, a passionate programmer with a keen interest in building desktop and Android applications. I also have a strong inclination toward programming electronics. I specialize in C++, Dart, Python, Julia, HTML, and CSS.
-- 🌱 I’m currently learning **Flutter**
-- 🔭 I’m currently working on **Robot & task manager app**
+- 🌱 I’m currently learning **Machine Learning**
 - 📃 All of my projects are available at **[GitHub](https://github.com/umerghafoor)**
 - 👨‍💻 Download my Resume **[Resume](umerghafoor.pdf)**
 - 📫 How to reach me **umerghaforr@gmail.com**
