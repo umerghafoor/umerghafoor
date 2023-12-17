@@ -14,7 +14,7 @@ Asslam-o-Alaikum! I'm Umer Ghafoor, a passionate programmer with a keen interest
 
 <h2 align="Center"> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
 <div align="Center">
-<a  href="https://github.com/anuraghazra/github-readme-stats">
+<a  href="https://github.com/umerghafoor">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@umerghafoor&compact=True"/>
 </a>
 <br>
