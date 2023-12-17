@@ -2,10 +2,8 @@
 <h1 align="center"> Hi, <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> I'm Umer Ghafoor </h1>
 <h3 align="center">Passionate Robotic Engineer and Programmer</h3>
 
-
-![stats_banner](cover.jpg)
 Asslam-o-Alaikum! I'm Umer Ghafoor, a passionate programmer with a keen interest in building desktop and Android applications. I also have a strong inclination toward programming electronics. I specialize in C++, Dart, Python, Julia, HTML, and CSS.
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="Cover Github - 2.0.png" />
 
 - 🔭 I’m currently working on IOT Based Plant Monitoring System.
 - 🌱 I’m currently learning Data Science, Machine Learning. 
