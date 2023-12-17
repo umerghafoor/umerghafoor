@@ -1,21 +1,27 @@
-<h1 align="center">Hi 👋, I'm Umer Ghafoor</h1>
+<p align='center'>
+<h1 align="center"> Hi, <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> I'm Umer Ghafoor </h1>
 <h3 align="center">Passionate Robotic Engineer and Programmer</h3>
 
 
 ![stats_banner](cover.jpg)
 Asslam-o-Alaikum! I'm Umer Ghafoor, a passionate programmer with a keen interest in building desktop and Android applications. I also have a strong inclination toward programming electronics. I specialize in C++, Dart, Python, Julia, HTML, and CSS.
-- 🌱 I’m currently learning **Machine Learning**
-- 📃 All of my projects are available at **[GitHub](https://github.com/umerghafoor)**
-- 👨‍💻 Download my Resume **[Resume](umerghafoor.pdf)**
-- 📫 How to reach me **umerghaforr@gmail.com**
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
-## Current Releases
+- 🔭 I’m currently working on IOT Based Plant Monitoring System.
+- 🌱 I’m currently learning Data Science, Machine Learning. 
+- 👯 I’m looking to collaborate on projects 
+- 💬 Talk to me about IOT, Machine Learning, Artificial Intelligence 
 
-- [Open Inventory v1.0.0](https://github.com/umerghafoor/InventorySysytem/releases/tag/v1.0.0) - Released on May 24,2023
+<h2 align="Center"> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
+<div align="Center">
+<a  href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@umerghafoor&compact=True"/>
+</a>
+<br>
+</div>
 
-You can find more releases on [GitHub](https://github.com/umerghafoor/InventorySysytem/releases).
+<h2 align="center"> Languages & Tools <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 
-<h2 align="center">Languages & Tools</h2>
 <div align="center">
 	<img width="28" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
 	<img width="28" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
@@ -42,7 +48,8 @@ You can find more releases on [GitHub](https://github.com/umerghafoor/InventoryS
 	<img width="28" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" title="xd"/>
 </div>
 
-<h2 align="center">Statistics</h2>
+<h2 align="Center"> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
+
 <div style="color: #44AEFB" align="Center" >
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umerghafoor&theme=transparent&border_radius=32&hide_border=true" alt="umerghafoor" /></p>
   </div>
@@ -50,12 +57,13 @@ You can find more releases on [GitHub](https://github.com/umerghafoor/InventoryS
 ![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=umerghafoor&show_icons=true&theme=transparent&border_radius=32&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=umerghafoor&show_icons=true&locale=en&layout=compact&theme=transparent&border_radius=32&hide_border=true)](https://github.com/umerghafoor)
 
-<h2 align="Center">Connect me</h2>
-<p align="Center">
+<h2 align="Center"> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
+
+<div align="Center">
 <a href="https://twitter.com/mumerghafoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mumerghafoor" height="20" width="40" /></a>
 <a href="https://linkedin.com/in/umerghafoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umerghafoor" height="20" width="40" /></a>
 <a href="https://fb.com/m.umer.ghafoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.umer.ghafoor" height="20" width="40" /></a>
 <a href="https://instagram.com/adobe.hacks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adobe.hacks" height="20" width="40" /></a>
 </p>
 
-
+</div>
