@@ -2,13 +2,12 @@
 <h1 align="center"> Hi, <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> I'm Umer Ghafoor </h1>
 <h3 align="center">Passionate Robotic Engineer and Programmer</h3>
 
-Asslam-o-Alaikum! I'm Umer Ghafoor, a passionate programmer with a keen interest in building desktop and Android applications. I also have a strong inclination toward programming electronics. I specialize in C++, Dart, Python, Julia, HTML, and CSS.
+Asslam-o-Alaikum! I'm Umer Ghafoor, a dedicated programmer with a fervent interest in crafting desktop and Android applications infused with the power of machine learning and artificial intelligence. I specialize in leveraging ML algorithms to develop intelligent solutions that redefine user experiences. My expertise spans across various programming languages and technologies, enabling me to create innovative software solutions tailored to meet diverse needs.
 <img width="55%" align="right" alt="Github" src="Cover Github - 2.0.png" />
 
-- 🔭 I’m currently working on IOT Based Plant Monitoring System.
-- 🌱 I’m currently learning Data Science, Machine Learning. 
-- 👯 I’m looking to collaborate on projects 
-- 💬 Talk to me about IOT, Machine Learning, Artificial Intelligence 
+- 🌱 I’m currently learning Data Science, Machine Learning.
+- 👯 I’m looking to collaborate on projects
+- 💬 Talk to me about IOT, Machine Learning, Artificial Intelligence
 
 <h2 align="Center"> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
 <div align="Center">
@@ -24,12 +23,17 @@ Asslam-o-Alaikum! I'm Umer Ghafoor, a passionate programmer with a keen interest
 	<img width="28" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
 	<img width="28" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
 	<img width="28" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab"/>
+	    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="28" height="28"/> </a>
 	<img width="28" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/>
 	<img width="28" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/>
 	<img width="28" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/>
 	<img width="28" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
 	<img width="28" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/11e7dfe7-c1f6-483c-9d92-276f1fa9363b" alt="Qt" title="Qt"/>
 	<img width="28" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" title="TensorFlow"/>
+	<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="28" height="28"/> </a> 
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="28" height="28"/> </a> 
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="28" height="28"/> </a>
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="28" height="28"/> </a>
 	<img width="28" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" title="OpenCV"/>
 	<img width="28" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="MATLAB" title="MATLAB"/>
 	<img width="28" src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="Dart" title="Dart"/>
@@ -39,11 +43,12 @@ Asslam-o-Alaikum! I'm Umer Ghafoor, a passionate programmer with a keen interest
 	<img width="28" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/>
 	<img width="28" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
 	<img width="28" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
+	    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="28" height="28"/> </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="28" height="28"/> </a> 
   <img width="28" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" title="Blender"/>
 	<img width="28" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/>
 	<img width="28" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" title="illustrator"/>
 	<img width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" title="photoshop"/>
-	<img width="28" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" title="xd"/>
 </div>
 
 <h2 align="Center"> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
@@ -65,3 +70,4 @@ Asslam-o-Alaikum! I'm Umer Ghafoor, a passionate programmer with a keen interest
 </p>
 
 </div>
+
