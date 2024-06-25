@@ -12,6 +12,7 @@ Let's connect and collaborate on projects that harness the power of technology f
 - 🌱 I’m currently learning Data Science, Machine Learning.
 - 👯 I’m looking to collaborate on projects
 - 💬 Talk to me about IOT, Machine Learning, Artificial Intelligence
+- 🎨 Hobbyist in art, exploring creative technology integration.
 
 <h2 align="Center"> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
 <div align="Center">
