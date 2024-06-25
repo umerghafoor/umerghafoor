@@ -2,7 +2,8 @@
 <h1 align="center"> Hi, <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> I'm Umer Ghafoor </h1>
 <h3 align="center">Passionate Robotic Engineer and Programmer</h3>
 
-Asslam-o-Alaikum! I'm Umer Ghafoor, a dedicated programmer with a fervent interest in crafting desktop and Android applications infused with the power of machine learning and artificial intelligence. I specialize in leveraging ML algorithms to develop intelligent solutions that redefine user experiences. My expertise spans across various programming languages and technologies, enabling me to create innovative software solutions tailored to meet diverse needs.
+👋 Hi, I'm Umer Ghafoor, a Computer Science student passionate about Robotics, Automation, IoT, and ML.I specialize in blending technology with creative expression to push the boundaries of innovation.Let's connect and explore the intersection of technology, creativity, and personal growth together!
+
 <img width="55%" align="right" alt="Github" src="Cover Github - 2.0.png" />
 
 - 🌱 I’m currently learning Data Science, Machine Learning.
