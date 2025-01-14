@@ -58,9 +58,6 @@ Let's connect and collaborate on projects that harness the power of technology f
 
 <h2 align="Center"> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
-<div style="color: #44AEFB" align="Center" >
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umerghafoor&theme=transparent&border_radius=32&hide_border=true" alt="umerghafoor" /></p>
-  </div>
 
 ![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=umerghafoor&show_icons=true&theme=transparent&border_radius=32&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=umerghafoor&show_icons=true&locale=en&layout=compact&theme=transparent&border_radius=32&hide_border=true)](https://github.com/umerghafoor)
