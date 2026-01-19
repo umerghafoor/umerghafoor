@@ -17,7 +17,20 @@ Let's connect and collaborate on projects that harness the power of technology f
 <h2 align="Center"> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
 <div align="Center">
 <a  href="https://github.com/umerghafoor">
-<img align="center" src="https://github-stats-beta-seven.vercel.app/api/stats-card?username=umerghafoor&wakatime=umerghafoor"/>
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-stats-beta-seven.vercel.app/api/stats-card?username=umerghafoor&wakatime=umerghafoor&theme=dark"
+  />
+  <source 
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-stats-beta-seven.vercel.app/api/stats-card?username=umerghafoor&wakatime=umerghafoor&theme=light"
+  />
+  <img 
+    src="https://github-stats-beta-seven.vercel.app/api/stats-card?username=umerghafoor&wakatime=umerghafoor&theme=light"
+  />
+</picture>
+
 </a>
 <br>
 </div>
