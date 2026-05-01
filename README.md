@@ -36,14 +36,5 @@ Let's connect and collaborate on projects that harness the power of technology f
 </div>
 
 
-<h2 align="Center"> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
-
-<div align="Center">
-<a href="https://twitter.com/mumerghafoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mumerghafoor" height="20" width="40" /></a>
-<a href="https://linkedin.com/in/umerghafoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umerghafoor" height="20" width="40" /></a>
-<a href="https://fb.com/m.umer.ghafoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.umer.ghafoor" height="20" width="40" /></a>
-<a href="https://instagram.com/adobe.hacks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adobe.hacks" height="20" width="40" /></a>
-</p>
-
 </div>
 
